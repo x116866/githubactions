@@ -5,7 +5,7 @@ on:
 
 jobs:
   hello:
-    name: Say Hello
+    name: Done done done
     runs-on: self-hosted
 
     steps:
